@@ -31,6 +31,8 @@ const ImageModale: React.FC<ImageModalProps> = ({
         src={bigPhotoData.data}
         alt={bigPhotoData.alt}
         className={css.bigImg}
+        width={1000}
+        height={800}
       />
     </Modal>
   );
