@@ -1,4 +1,4 @@
-import css from './ImageCard.module.css';
+import css from './imgCard.module.css';
 import { PhotoData } from '../../services/types';
 import React from 'react';
 

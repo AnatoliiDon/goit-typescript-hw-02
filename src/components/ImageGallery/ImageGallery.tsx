@@ -1,5 +1,5 @@
 import ImageCard from '../ImageCard/ImageCard';
-import styles from './imageGallery.module.css';
+import styles from './imgGallery.module.css';
 import { PhotoData } from '../../services/types';
 
 interface ImageGalleryProps {

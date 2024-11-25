@@ -1,4 +1,4 @@
-import css from './imageModal.module.css';
+import css from './imgModal.module.css';
 import Modal from 'react-modal';
 
 Modal.setAppElement('#root');
