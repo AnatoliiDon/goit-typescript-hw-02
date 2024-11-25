@@ -58,7 +58,7 @@ function App() {
     setPage(page + 1);
   };
 
-  const openModal: React.MouseEventHandler<HTMLImageElement> = event => {
+  const openModal = (event: React.MouseEvent<HTMLImageElement>) => {
     event.preventDefault();
     const bigPhotoData = event.currentTarget.dataset;
 
